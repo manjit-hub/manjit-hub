@@ -48,11 +48,15 @@ I'm a pre-final year undergraduate student majoring in Mechanical Engineering wi
 
 
 <br>
-<h2>😄 Have Fun </h2>
+<h2>🌟 Fun Facts</h2>
 <br>
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</p>
+<ul>
+  <li>Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3000 years old and still perfectly edible!</li>
+  <li>The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes!</li>
+  <li>Octopuses have three hearts. Two pump blood to the gills, while the third pumps it to the rest of the body!</li>
+  <li>In Japan, there's a practice called "Shinrin-yoku" or forest bathing, which involves immersing yourself in nature to improve your well-being.</li>
+</ul>
+
 
 ## 🏆 Github Stats
 <p align="left">
