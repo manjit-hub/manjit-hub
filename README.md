@@ -19,8 +19,7 @@
 </p>
 <br>
 
-👨‍🎓 I'm a prefinal Mechanical Engineering undergrad with a passion for 🌐 Augmented Reality, 🖥️ Web Development, and 🧩 Problem Solving. Currently, I'm delving into 🔗 Frontend Web Development and 🎮 Unity, aiming for mastery. My skills encompass 🧪 C++, C#, DSA, 💻 HTML, CSS, JS, and I'm on a mission to create innovative, user-centric solutions. 🚀 My journey is fueled by an insatiable hunger for knowledge and a burning desire to excel in cutting-edge technology. Ready to take on challenges and contribute to the evolving tech landscape!
-<br>
+👨‍🎓 I'm a prefinal-year Mechanical Engineering undergrad from NITR with a passion for 🌐 Augmented Reality, 🖥️ Web Development, and 🧩 Problem Solving. Currently, I'm delving into 🔗 Frontend Web Development and 🎮 Unity, aiming for mastery. My skills encompass 🧪 C++, C#, DSA, 💻 HTML, CSS, JS, and I'm on a mission to create innovative, user-centric solutions. 🚀 My journey is fueled by an insatiable hunger for knowledge and a burning desire to excel in cutting-edge technology. Ready to take on challenges and contribute to the evolving tech landscape!
 <br>
 <br>
 <img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="200px" width="350px">
@@ -48,27 +47,34 @@
 
 
 <br>
-<h2>😄 Humor </h2>
+<h2>😄 Have Fun </h2>
 <br>
+- Parallel lines have so much in common. It's a shame they'll never meet.
 
-- Why did the computer apply for an Indian visa? Because it wanted to enter "Ctrl+Alt+Del-hi!"
+- What do you call a bear with no teeth? 
+  - A gummy bear!
 
-- Indians are excellent at debugging. We've been dealing with traffic jams, government forms, and customer service helplines for ages!
-
-- In India, we have two seasons: "Hot" and "Even Hotter." Welcome to the land of endless summers!
-<br>
 
 
 ## 🏆 Github Stats
+
 <p align="left">
-<a href="https://github.com/Sukhseerat-Kaur/github-readme-stats"><img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api?username=Sukhseerat-Kaur&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true"></a>
-<a href="https://git.io/streak-stats"><img align="right" height="300px" width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=Sukhseerat-Kaur&theme=midnight-purple&hide_border=true&fire=F98404&ring=F98404"></a>
+  <a href="https://github.com/manjit-hub/github-readme-stats">
+    <img height="300px" width="400px" src="https://github-readme-stats.vercel.app/api?username=manjit-hub&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true">
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img align="right" height="300px" width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=manjit-hub&theme=midnight-purple&hide_border=true&fire=F98404&ring=F98404">
+  </a>
 </p>
-<a href="https://github.com/Sukhseerat-Kaur/github-readme-activity-graph"><img alt="Sukhseerat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sukhseerat-Kaur&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>
+
+<a href="https://github.com/manjit-hub/github-readme-activity-graph">
+  <img alt="manjit-hub's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manjit-hub&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" />
+</a>
 
 <br><br>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sukhseerat-Kaur">
+  <img src="https://komarev.com/ghpvc/?username=manjit-hub">
 </p>
 
 
