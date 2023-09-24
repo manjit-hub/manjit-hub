@@ -7,14 +7,14 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=AA2AF7&width=435&lines=I'm+Manjit+Majhi;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=AA2AF7&center=true&width=530&height=60&lines=I'm+Manjit+Majhi;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver" alt="Typing SVG">
 </p>
 
 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manjit-majhi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/manjit-majhi/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+  <a href="https://leetcode.com/manjit-code/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 <!--   <a href="https://twitter.com/see_d_rat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
 </p>
 <br>
