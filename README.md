@@ -53,15 +53,9 @@
 - What do you call a bear with no teeth?
   - A gummy bear!
 <br>
-## 🏆 Github Stats
-<p align="bottom">
-  <a href="https://github.com/manjit-hub/github-readme-stats">
-    <img align="left" height="400px" width="400px" src="https://github-readme-stats.vercel.app/api?username=manjit-hub&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true">
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img align="right" height="400px" width=400px" src="http://github-readme-streak-stats.herokuapp.com?user=manjit-hub&theme=midnight-purple&hide_border=true&fire=F98404&ring=F98404">
-  </a>
-</p>
+# 📊 GitHub Stats:
+<img align = "left" src="https://github-readme-streak-stats.herokuapp.com/?user=manjit-hub&theme=dark&hide_border=false">
+<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjit-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 
 
