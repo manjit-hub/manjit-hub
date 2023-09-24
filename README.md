@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to Sukhseerat Kaur's profile!
+  Welcome to Manjit Majhi's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Sukhseerat+Kaur;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver">
+  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=AA2AF7&width=435&lines=I'm+Manjit+Majhi;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver)](https://git.io/typing-svg)">
 </p>
 
 
