@@ -47,15 +47,12 @@
 
 
 <br>
-## 😄 Have Fun 
+<h2>😄 Have Fun </h2>
 - Parallel lines have so much in common. It's a shame they'll never meet.
 
 - What do you call a bear with no teeth?
   - A gummy bear!
 <br>
-
-
-
 ## 🏆 Github Stats
 <p align="left">
   <a href="https://github.com/manjit-hub/github-readme-stats">
