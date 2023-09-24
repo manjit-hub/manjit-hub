@@ -62,7 +62,7 @@
 
 <p align="left">
   <a href="https://github.com/manjit-hub/github-readme-stats">
-    <img height="400px" width="400px" src="https://github-readme-stats.vercel.app/api?username=manjit-hub&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true">
+    <img align="left" height="400px" width="400px" src="https://github-readme-stats.vercel.app/api?username=manjit-hub&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true">
   </a>
   <a href="https://git.io/streak-stats">
     <img align="right" height="400px" width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=manjit-hub&theme=midnight-purple&hide_border=true&fire=F98404&ring=F98404">
