@@ -47,9 +47,7 @@
 
 
 <br>
-<h2>😄 Have Fun </h2>
-<br>
-
+## 😄 Have Fun 
 - Parallel lines have so much in common. It's a shame they'll never meet.
 
 - What do you call a bear with no teeth?
@@ -59,7 +57,6 @@
 
 
 ## 🏆 Github Stats
-
 <p align="left">
   <a href="https://github.com/manjit-hub/github-readme-stats">
     <img align="left" height="400px" width="400px" src="https://github-readme-stats.vercel.app/api?username=manjit-hub&theme=midnight-purple&count_private=true&show_icons=true&hide_border=true">
