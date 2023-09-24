@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=AA2AF7&center=true&width=530&height=60&lines=I'm+Manjit+Majhi;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=AA2AF7&center=true&width=530&height=60&lines=I'm+Manjit+Majhi;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver">
 </p>
 
 
