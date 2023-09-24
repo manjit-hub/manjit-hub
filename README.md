@@ -19,14 +19,14 @@
 </p>
 <br>
 
-I'm a pre-final year undergraduate student majoring in Mechanical Engineering with an interest in Problem Solving and Web Development. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in C++,DSA,HTML, CSS, JavaScript etc.
+I'm a pre-final year undergraduate student majoring in Mechanical Engineering with an interest in Augmented Reality,Web Development and Problem Solving. Currently, I am working on Frontend Web Development aswell as on Unity, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in C++, C#, DSA, HTML, CSS, JavaScript etc.
 <br>
 <br>
 <br>
 <img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="200px" width="350px">
 
 
-- 🔭 I’m currently working on Frontend Developement and Problem Solving<br>
+- 🔭 I’m currently working on Frontend Developement and Data Structure & Algorithms <br>
 - 🌱 I’m currently learning Unity for AR Developement <br>
 - 👯 I’m looking to collaborate on Frontend Projects <br>
 - 📫 How to reach me: manjitmajhi156@gmail.com <br>
