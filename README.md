@@ -49,10 +49,12 @@
 <br>
 <h2>😄 Have Fun </h2>
 <br>
+
 - Parallel lines have so much in common. It's a shame they'll never meet.
 
-- What do you call a bear with no teeth? 
+- What do you call a bear with no teeth?
   - A gummy bear!
+<br>
 
 
 
@@ -74,7 +76,8 @@
 <br><br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manjit-hub">
+  <img src="https://img.shields.io/github/profile-views/manjit-hub?style=flat-square" alt="Profile Views">
 </p>
+
 
 
