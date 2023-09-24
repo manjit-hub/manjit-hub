@@ -69,15 +69,5 @@
   </a>
 </p>
 
-<a href="https://github.com/manjit-hub/github-readme-activity-graph">
-  <img alt="manjit-hub's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manjit-hub&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" />
-</a>
-
-<br><br>
-
-<p align="center">
-  <img src="https://img.shields.io/github/profile-views/manjit-hub?style=flat-square" alt="Profile Views">
-</p>
-
 
 
