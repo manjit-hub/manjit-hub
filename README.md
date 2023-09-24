@@ -19,17 +19,17 @@
 </p>
 <br>
 
-I'm a pre-final year undergraduate student majoring in Mechanical Engineering with an interest in Augmented Reality,Web Development and Problem Solving. Currently, I am working on Frontend Web Development aswell as on Unity, soaking up as much knowledge and practice as I can in an attempt to perfect my craft, along with sharpening my Problem Solving Skills. I have experience in C++, C#, DSA, HTML, CSS, JavaScript etc.
+👨‍🎓 I'm a prefinal Mechanical Engineering undergrad with a passion for 🌐 Augmented Reality, 🖥️ Web Development, and 🧩 Problem Solving. Currently, I'm delving into 🔗 Frontend Web Development and 🎮 Unity, aiming for mastery. My skills encompass 🧪 C++, C#, DSA, 💻 HTML, CSS, JS, and I'm on a mission to create innovative, user-centric solutions. 🚀 My journey is fueled by an insatiable hunger for knowledge and a burning desire to excel in cutting-edge technology. Ready to take on challenges and contribute to the evolving tech landscape!
 <br>
 <br>
 <br>
 <img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="200px" width="350px">
 
 
-- 🔭 I’m currently working on Frontend Developement and Data Structure & Algorithms <br>
-- 🌱 I’m currently learning Unity for AR Developement <br>
-- 👯 I’m looking to collaborate on Frontend Projects <br>
-- 📫 How to reach me: manjitmajhi156@gmail.com <br>
+- 💻 Frontend, Algorithms
+- 🎮 Learning Unity, AR
+- 👥 Open to Collaboration
+- 📧 manjitmajhi156@gmail.com
 
 <br><br>
 
@@ -48,14 +48,15 @@ I'm a pre-final year undergraduate student majoring in Mechanical Engineering wi
 
 
 <br>
-<h2>🌟 Fun Facts</h2>
+<h2>😄 Humor </h2>
 <br>
-<ul>
-  <li>Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3000 years old and still perfectly edible!</li>
-  <li>The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes!</li>
-  <li>Octopuses have three hearts. Two pump blood to the gills, while the third pumps it to the rest of the body!</li>
-  <li>In Japan, there's a practice called "Shinrin-yoku" or forest bathing, which involves immersing yourself in nature to improve your well-being.</li>
-</ul>
+
+- Why did the computer apply for an Indian visa? Because it wanted to enter "Ctrl+Alt+Del-hi!"
+
+- Indians are excellent at debugging. We've been dealing with traffic jams, government forms, and customer service helplines for ages!
+
+- In India, we have two seasons: "Hot" and "Even Hotter." Welcome to the land of endless summers!
+<br>
 
 
 ## 🏆 Github Stats
