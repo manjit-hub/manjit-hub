@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=AA2AF7&width=435&lines=I'm+Manjit+Majhi;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=AA2AF7&width=435&lines=I'm+Manjit+Majhi;An+Enthusiastic+Learner;A+Student+Developer;A+Problem+Solver">
 </p>
 
 
