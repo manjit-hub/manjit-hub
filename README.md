@@ -21,8 +21,6 @@
 
 👨‍🎓 I'm a prefinal-year Mechanical Engineering undergrad from NITR with a passion for 🌐 Augmented Reality, 🖥️ Web Development, and 🧩 Problem Solving. Currently, I'm delving into 🔗 Frontend Web Development and 🎮 Unity, aiming for mastery. My skills encompass 🧪 C++, C#, DSA, 💻 HTML, CSS, JS, and I'm on a mission to create innovative, user-centric solutions. 🚀 My journey is fueled by an insatiable hunger for knowledge and a burning desire to excel in cutting-edge technology. Ready to take on challenges and contribute to the evolving tech landscape!
 <br>
-<br>
-<img align="right" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="200px" width="350px">
 
 
 - 💻 Frontend, Algorithms
