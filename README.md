@@ -19,12 +19,12 @@
 </p>
 <br>
 
-👨‍🎓 I'm a final-year Mechanical Engineering undergrad from NITR with a passion for 🌐 Augmented Reality, 🖥️ Web Development, and 🧩 Problem Solving. Currently, I'm delving into 🔗 MERN Stack, aiming for mastery. My skills encompass 🧪 C++, C#, DSA, 💻 HTML, CSS, JS, React, and I'm on a mission to create innovative, user-centric solutions. 🚀 My journey is fueled by an insatiable hunger for knowledge and a burning desire to excel in cutting-edge technology. Ready to take on challenges and contribute to the evolving tech landscape!
+👨‍🎓 I'm a final-year Engineering undergrad from NIT Rourkela with a passion for 🌐 Augmented Reality, 🖥️ Web Development, and 🧩 Problem Solving. Currently, I'm delving into 🔗 MERN Stack, aiming for mastery. My skills encompass 🧪 C++, C#, DSA, 💻 HTML, CSS, JS, React, NodeJS and I'm on a mission to create innovative, user-centric solutions. 🚀 My journey is fueled by an insatiable hunger for knowledge and a burning desire to excel in cutting-edge technology. Ready to take on challenges and contribute to the evolving tech landscape!
 <br>
 
 
-- 💻 Frontend, MERN, Algorithms
-- 🎮 Learning Unity, AR
+- 💻 Frontend, MERN Stack, Data Structure & Algorithms (Learning)
+- 🎮 Unity, AR (Currently Not Working)
 - 👥 Open to Collaboration
 - 📧 manjitmajhi156@gmail.com
 
