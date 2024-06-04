@@ -15,12 +15,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/manjit-majhi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://leetcode.com/manjit-code/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-  ![GitHub visitors](https://visitor-badge.glitch.me/badge?page_id=manjit-hub.manjit-hub)
 <!--   <a href="https://twitter.com/see_d_rat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
 </p>
-<!-- <p align="center">
-  ![GitHub visitors](https://visitor-badge.glitch.me/badge?page_id=manjit-hub.online-judge)
-</p> -->
 <br>
 
 👨‍🎓 I'm a final-year Engineering undergrad from NIT Rourkela with a passion for 🌐 Augmented Reality, 🖥️ Web Development, and 🧩 Problem Solving. Currently, I'm delving into 🔗 MERN Stack, aiming for mastery. My skills encompass 🧪 C++, C#, DSA, 💻 HTML, CSS, JS, React, NodeJS and I'm on a mission to create innovative, user-centric solutions. 🚀 My journey is fueled by an insatiable hunger for knowledge and a burning desire to excel in cutting-edge technology. Ready to take on challenges and contribute to the evolving tech landscape!
