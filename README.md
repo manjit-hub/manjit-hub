@@ -19,7 +19,7 @@
 <!--   <a href="https://twitter.com/see_d_rat"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
 </p>
 <p align="center">
-  ![Profile Visits]("https://komarev.com/ghpvc/?username=manjit-hub&color=blueviolet")
+  ![GitHub visitors](https://visitor-badge.glitch.me/badge?page_id=manjit-hub.online-judge)
 </p>
 <br>
 
