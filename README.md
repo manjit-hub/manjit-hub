@@ -42,6 +42,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%237A248E.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![MERN Stack](https://img.shields.io/badge/MERN%20Stack%20-06D001.svg?style=for-the-badge&logo=mern-stack&logoColor=green)
+![React JS](https://img.shields.io/badge/React.js%20-4B70F5.svg?style=for-the-badge&logo=react-js&logoColor=white)
 
 
 <br>
