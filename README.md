@@ -43,10 +43,10 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%237A248E.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-FFF455.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![MERN Stack](https://img.shields.io/badge/MERN%20Stack%20-06D001.svg?style=for-the-badge&logo=mern-stack&logoColor=green)
-![React JS](https://img.shields.io/badge/React.js%20-4B70F5.svg?style=for-the-badge&logo=reactdotjs&logoColor=blue)
+![React JS](https://img.shields.io/badge/React.js%20-61DAFB.svg?style=for-the-badge&logo=reactdotjs&logoColor=blue)
 ![Node JS](https://img.shields.io/badge/Node.js%20-9BEC00.svg?style=for-the-badge&logo=nodedotjs&logoColor=green)
-![Mongo DB](https://img.shields.io/badge/Mongo%20DB%20-059212.svg?style=for-the-badge&logo=mongo-db&logoColor=green)
-![Express js](https://img.shields.io/badge/Express.js%20-C3FF93.svg?style=for-the-badge&logo=expressdotjs&logoColor=blue)
+![Mongo DB](https://img.shields.io/badge/Mongo%20DB%20-47A248.svg?style=for-the-badge&logo=mongo-db&logoColor=green)
+![Express js](https://img.shields.io/badge/Express.js%20-000000.svg?style=for-the-badge&logo=expressdotjs&logoColor=blue)
 
 <br>
 <h2>😄 Have Fun </h2>
