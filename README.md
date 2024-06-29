@@ -41,13 +41,19 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%237A248E.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-FFF455.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![MERN Stack](https://img.shields.io/badge/MERN%20Stack%20-06D001.svg?style=for-the-badge&logo=mern-stack&logoColor=green)
-![React JS](https://img.shields.io/badge/React.js%20-61DAFB.svg?style=for-the-badge&logo=reactdotjs&logoColor=blue)
-![Node JS](https://img.shields.io/badge/Node.js%20-9BEC00.svg?style=for-the-badge&logo=nodedotjs&logoColor=green)
-![Mongo DB](https://img.shields.io/badge/Mongo%20DB%20-47A248.svg?style=for-the-badge&logo=mongo-db&logoColor=green)
-![Express js](https://img.shields.io/badge/Express.js%20-000000.svg?style=for-the-badge&logo=expressdotjs&logoColor=blue)
-
+![JavaScript](https://img.shields.io/badge/javascript%20-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/MERN%20Stack%20-06D001.svg?style=for-the-badge&logo=mern-stack&logoColor=white)
+![React JS](https://img.shields.io/badge/React.js%20-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node.js%20-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Mongo DB](https://img.shields.io/badge/Mongo%20DB%20-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express js](https://img.shields.io/badge/Express.js%20-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/docker%20-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/postman%20-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/aws%20-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Mongoose](https://img.shields.io/badge/mongoose%20-880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+![Nodemon](https://img.shields.io/badge/nodemon%20-76D04B.svg?style=for-the-badge&logo=nodemon&logoColor=white)
+![Npm](https://img.shields.io/badge/npm%20-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![NameCheap](https://img.shields.io/badge/namecheap%20-DE3723.svg?style=for-the-badge&logo=namecheap&logoColor=white) 
 <br>
 <h2>😄 Have Fun </h2>
 - Parallel lines have so much in common. It's a shame they'll never meet.
