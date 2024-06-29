@@ -41,9 +41,12 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%237A248E.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript%20-FFF455.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![MERN Stack](https://img.shields.io/badge/MERN%20Stack%20-06D001.svg?style=for-the-badge&logo=mern-stack&logoColor=green)
 ![React JS](https://img.shields.io/badge/React.js%20-4B70F5.svg?style=for-the-badge&logo=react-js&logoColor=white)
-
+![Node JS](https://img.shields.io/badge/Node.js%20-9BEC00.svg?style=for-the-badge&logo=node-js&logoColor=white)
+![Mongo DB](https://img.shields.io/badge/Mongo%20DB%20-059212.svg?style=for-the-badge&logo=mongo-db&logoColor=white)
+![Express js](https://img.shields.io/badge/Express.js%20-C3FF93.svg?style=for-the-badge&logo=express-js&logoColor=white)
 
 <br>
 <h2>😄 Have Fun </h2>
