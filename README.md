@@ -23,7 +23,7 @@
 <br>
 
 
-- 💻 Frontend, MERN Stack, Data Structure & Algorithms (Learning)
+- 💻 Frontend, MERN Stack, Data Structure & Algorithms
 - 🎮 Unity, AR (Currently Not Working)
 - 👥 Open to Collaboration
 - 📧 manjitmajhi156@gmail.com
