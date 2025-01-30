@@ -63,5 +63,5 @@
 <br>
 # 📊 GitHub Stats:
 <img align = "left" src="https://github-readme-streak-stats.herokuapp.com/?user=mjkoder&theme=dark&hide_border=false">
-<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjhubb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjkoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
